@@ -1,0 +1,15 @@
+{
+  "name": "react-render-time",
+  "version": "0.1.0",
+  "description": "React hook to check how much does it take to render",
+  "keywords": [
+    "react",
+    "hook",
+    "render",
+    "time"
+  ],
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
+  }
+}
