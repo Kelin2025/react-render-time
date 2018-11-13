@@ -1,6 +1,6 @@
 {
   "name": "react-render-time",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React hook to check how much does it take to render",
   "keywords": [
     "react",
