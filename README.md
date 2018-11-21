@@ -20,7 +20,7 @@ import React from "react"
 import useRenderTime from "react-render-time"
 
 const App = () => {
-  userRenderTime("App")
+  useRenderTime("App")
 
   return (
     <div>
